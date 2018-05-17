@@ -17,6 +17,7 @@ public class WechatUtil {
 
     private static final String GRANT_TYPE = "authorization_code";
 
+
     /**
      * 通过code获取access_token
      * @param code
