@@ -11,9 +11,9 @@ import java.nio.charset.Charset;
 
 public class WechatUtil {
 
-    private static final String APP_ID = "wxc2534e9ca299601d";
+    private static final String APP_ID = "xxxxxx";
 
-    private static final String APP_SECRET = "c3489bf8d1325ec8b271b243bb09198b";
+    private static final String APP_SECRET = "xxxxxxxxx";
 
     private static final String GRANT_TYPE = "authorization_code";
 
